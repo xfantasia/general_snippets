@@ -1,0 +1,7 @@
+MOBILE VIEW CLASS CODE 
+class="d-block d-sm-none";
+
+
+DESKTOP VIEW CLASS CODE
+class="d-none d-sm-block";
+
